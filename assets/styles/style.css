@@ -537,16 +537,12 @@ h3 {
     gap: 3rem;
     margin-right: 10rem;
   }
-
+/* 
   .ql {
     display: flex;
     justify-content: center;
     text-align: center;
-  }
-
-  .learn .ql {
-    margin: 3rem;
-  }
+  } */
 
   .learn {
     margin-right: 1px;
