@@ -544,7 +544,7 @@ h3 {
     text-align: center;
   }
 
-  .ql .learn {
+  .learn .ql {
     margin: 3rem;
   }
 
@@ -552,7 +552,7 @@ h3 {
     margin-right: 1px;
   }
 
-  .ql .quote {
+  .quote  .ql {
     margin: 3rem;
   }
 
