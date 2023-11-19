@@ -44,7 +44,7 @@ body {
   color: white;
 }
 
-.quote {
+.quot {
   text-align: center;
   border-radius: 1rem;
   width: 10rem;
@@ -552,7 +552,7 @@ h3 {
     margin-right: 1px;
   }
 
-  .quote  .ql {
+  .quot  .ql {
     margin: 3rem;
   }
 
@@ -562,7 +562,7 @@ h3 {
     color: white;
   }
 
-  .quote {
+  .quot {
     margin-right: 1px;
   }
 
