@@ -1,12 +1,12 @@
+.icons {
+  display: flex;
+  gap: 1rem;
+}
+
 * {
   margin: 1px;
   padding: 1px;
   box-sizing: border-box;
-}
-
-.icons {
-  display: flex;
-  gap: 1rem;
 }
 
 .header {
