@@ -1,13 +1,7 @@
-@import url("../fonts/Montserrat-VariableFont_wght.ttf");
-
 * {
   margin: 1px;
   padding: 1px;
   box-sizing: border-box;
-}
-
-body {
-  font-family: Montserrat, sans-serif;
 }
 
 .icons {
